@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently studying data science
+- 📫 How to reach me: jesse@bakenh.us
+- ⚡ Fun fact: I have been programming since I was 13.
+
 <!--
 **jessebakenhus/jessebakenhus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
