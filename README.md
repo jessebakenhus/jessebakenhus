@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently studying data science
-- 📫 How to reach me: jesse@bakenhus.dev
+- 📫 How to reach me: jesse.bakenhus@study.hs-duesseldorf.de
 - ⚡ Fun fact: I have been programming since I was 13.
 
 <!--
